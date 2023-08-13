@@ -1,0 +1,6 @@
+# Permissions:
+# add (add player to db) ----- vipertroll.add
+# remove (remove player from db) -------- vipertroll.remove
+# check (check if player is in db) -------- vipertroll.check
+
+# all of the above --------- vipertroll.*

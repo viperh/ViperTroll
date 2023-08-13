@@ -1,0 +1,8 @@
+plugins\vipertrollnew\Database\Database.class
+plugins\vipertrollnew\Utils\TrollData.class
+plugins\vipertrollnew\Listeners\OnHit.class
+plugins\vipertrollnew\Utils\PlayerData.class
+plugins\vipertrollnew\TabCompleters\vtrollCompleter.class
+plugins\vipertrollnew\Listeners\OnPlayerJoin.class
+plugins\vipertrollnew\Commands\vtroll.class
+plugins\vipertrollnew\ViperTrollNew.class

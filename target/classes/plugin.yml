@@ -1,0 +1,7 @@
+name: ViperTrollNew
+version: '1.0'
+main: plugins.vipertrollnew.ViperTrollNew
+api-version: '1.19'
+commands:
+  vtroll:
+    description: plm
